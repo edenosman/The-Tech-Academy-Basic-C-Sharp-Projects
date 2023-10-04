@@ -1,0 +1,7 @@
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\bin\Debug\ConsoleApp Array Assignment.exe.config
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\bin\Debug\ConsoleApp Array Assignment.exe
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\bin\Debug\ConsoleApp Array Assignment.pdb
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\obj\Debug\ConsoleApp Array Assignment.csproj.AssemblyReference.cache
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\obj\Debug\ConsoleApp Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\obj\Debug\ConsoleApp Array Assignment.exe
+C:\Users\Eden\source\repos\ConsoleApp Array Assignment\ConsoleApp Array Assignment\obj\Debug\ConsoleApp Array Assignment.pdb
