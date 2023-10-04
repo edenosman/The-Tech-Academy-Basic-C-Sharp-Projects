@@ -1,0 +1,7 @@
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\bin\Debug\Six Part Assignment.exe.config
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\bin\Debug\Six Part Assignment.exe
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\bin\Debug\Six Part Assignment.pdb
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\obj\Debug\Six Part Assignment.csproj.AssemblyReference.cache
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\obj\Debug\Six Part Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\obj\Debug\Six Part Assignment.exe
+C:\Users\Eden\source\repos\Six Part Assignment\Six Part Assignment\obj\Debug\Six Part Assignment.pdb
