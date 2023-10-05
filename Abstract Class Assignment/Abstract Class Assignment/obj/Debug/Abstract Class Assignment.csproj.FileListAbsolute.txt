@@ -1,0 +1,6 @@
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe.config
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.exe
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\bin\Debug\Abstract Class Assignment.pdb
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.exe
+C:\Users\Eden\source\repos\Abstract Class Assignment\Abstract Class Assignment\obj\Debug\Abstract Class Assignment.pdb
