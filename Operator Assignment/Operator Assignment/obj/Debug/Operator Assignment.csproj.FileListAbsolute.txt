@@ -1,0 +1,7 @@
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.csproj.AssemblyReference.cache
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.exe.config
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.exe
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\bin\Debug\Operator Assignment.pdb
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.exe
+C:\Users\Eden\source\repos\Operator Assignment\Operator Assignment\obj\Debug\Operator Assignment.pdb
